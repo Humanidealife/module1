@@ -4,6 +4,9 @@
 
 package com.mycompany.testlibrairiepremier.module1;
 
+//On importe la Class "StringUtils"
+import org.apache.commons.lang3.StringUtils;
+
 /**
  *
  * @author wangq
